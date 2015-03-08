@@ -19,11 +19,14 @@
   "devDependencies": {
     "browserify": "^9.0.3",
     "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.2",
     "gulp-sourcemaps": "^1.5.0",
     "vinyl-transform": "^1.0.0"
   },
   "dependencies": {
     "gulp-autoprefixer": "^2.1.0",
-    "gulp-uglify": "^1.1.0"
+    "gulp-uglify": "^1.1.0",
+    "matter-js": "git://github.com/liabru/matter-js",
+    "pixi.js": "^2.2.7"
   }
 }
