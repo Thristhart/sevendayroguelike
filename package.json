@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/Thristhart/sevendayroguelike/issues"
   },
-  "homepage": "https://github.com/Thristhart/sevendayroguelike"
+  "homepage": "https://github.com/Thristhart/sevendayroguelike",
+  "devDependencies": {
+    "browserify": "^9.0.3",
+    "gulp": "^3.8.11",
+    "gulp-sourcemaps": "^1.5.0",
+    "vinyl-transform": "^1.0.0"
+  },
+  "dependencies": {
+    "gulp-autoprefixer": "^2.1.0",
+    "gulp-uglify": "^1.1.0"
+  }
 }
